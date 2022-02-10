@@ -39,7 +39,7 @@ NOTE: You need to also download the datasets folder in order for project to work
 
 ###### App pricing trend across categories
 
-![Screenshot](pricing_across_categories.png)
+![Screenshot](pricing_across_categoreis.png)
 <br/>
 
 ###### App pricing trend across categories after filtering for junk apps
